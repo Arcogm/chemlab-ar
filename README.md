@@ -38,3 +38,15 @@ Academic Project
 Developed as a **Bachelor of Science in Information Technology capstone project** at **Pampanga State University, College of Computing Studies**.
 
 The system was evaluated with **3 IT experts and 205 Senior High School students** from Floridablanca National Agricultural School as part of the project's software evaluation.
+
+<img width="1369" height="618" alt="image" src="https://github.com/user-attachments/assets/36c3540e-a182-4b97-9e31-6982c9ee37e6" />
+
+<img width="1298" height="665" alt="image" src="https://github.com/user-attachments/assets/389c5014-5af5-40b8-8f01-5dd2e996b008" />
+
+<img width="1549" height="714" alt="image" src="https://github.com/user-attachments/assets/4ad83757-c342-4a2a-aa3e-d26b048dd777" />
+
+<img width="1530" height="739" alt="image" src="https://github.com/user-attachments/assets/86d2f460-6a7f-4885-ac0a-2c5b7a66c0a3" />
+
+<img width="1507" height="688" alt="image" src="https://github.com/user-attachments/assets/355bce7d-30a2-4ca1-ae86-9197936b5afc" />
+
+<img width="1546" height="760" alt="image" src="https://github.com/user-attachments/assets/1ff03ae2-ff22-4d71-ba5f-b4e26e9e5f44" />
